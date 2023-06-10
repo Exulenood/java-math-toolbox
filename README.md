@@ -1,2 +1,2 @@
-# java_math_toolbox
+# java-math-toolbox
 Toolset for several mathematic concepts
